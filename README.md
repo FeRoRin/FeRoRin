@@ -9,7 +9,6 @@ Welcome to my GitHub profile! This repository contains my professional CV in HTM
 - [Introduction](#introduction)
 - [View the CV](#view-the-cv)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
@@ -21,6 +20,7 @@ You can view the HTML version of my CV by opening the `index.html` file in a web
 
 Alternatively, you can [click here](https://github.com/FeRoRin/FeRoRin) to view it directly on GitHub.
 Or [click here](https://ferorin.github.io/FeRoRin)
+
 ## Usage
 
 This CV is structured using simple HTML and CSS. It is designed to be easily customizable, so feel free to adapt it to suit your needs. Below are the steps to use or modify the CV:
