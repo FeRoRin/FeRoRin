@@ -29,7 +29,6 @@ This CV is structured using simple HTML and CSS. It is designed to be easily cus
 2. Open `index.html` in any text editor to edit.
 3. Use a web browser to preview the changes.
 
-If you need to print it, ensure your printer settings match F4 paper size (210mm x 330mm).
 
 ## License
 
