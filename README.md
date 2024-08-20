@@ -30,10 +30,6 @@ This CV is structured using simple HTML and CSS. It is designed to be easily cus
 3. Use a web browser to preview the changes.
 
 
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this template as you see fit. See the [LICENSE](LICENSE) file for more details.
-
 
 <!--
 **FeRoRin/FeRoRin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
