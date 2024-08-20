@@ -13,7 +13,7 @@ Welcome to my GitHub profile! This repository contains my professional CV in HTM
 
 ## Introduction
 
-I am Firadouss El Ouahabi, a passionate web developer with a strong background in creating innovative web solutions. I have advanced skills in programming, database design, and freelance project management. My CV is available in HTML format and is designed to be print-friendly for F4 paper size.
+I am Firadouss El Ouahabi, a passionate web developer with a strong background in creating innovative web solutions. I have advanced skills in programming, database design, and freelance project management. My CV is available in HTML.
 
 ## View the CV
 
