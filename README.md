@@ -13,6 +13,7 @@ Welcome to my GitHub profile! This repository contains my professional CV in HTM
 ## Introduction
 
 I am Firadouss El Ouahabi, a passionate web developer with a strong background in creating innovative web solutions. I have advanced skills in programming, database design, and freelance project management. My CV is available in HTML.
+- [Portfolio](https://ferorin.github.io/FeroFolio/)
 
 ## View the CV
 
