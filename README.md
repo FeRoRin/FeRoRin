@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello and Welcome 👋, I'm Firadouss El Ouahabi
 
-# Firadouss El Ouahabi - Web Developer
+# I'm a Developer
 
 Welcome to my GitHub profile! This repository contains my professional CV in HTML format. It showcases my skills, experiences, and education. Feel free to explore and use the HTML structure provided.
 
