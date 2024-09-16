@@ -7,7 +7,7 @@ Welcome to my GitHub! 🚀 This is where my ideas come to life through code. I�
 ### 🔧 What I Do
 I’ve been coding and creating innovative web applications since 2020. From **full-stack development** to **freelance project management**, I’m constantly pushing the boundaries of what’s possible with technology. Here’s a glimpse of my skillset:
 - **Languages**: PHP, JavaScript, Python, C++, C#, Java
-- **Frameworks**: Laravel, Vue.js, Spring Boot, Node.js
+- **Frameworks**: Laravel, Vue.js, Spring Boot, Asp.net, Node.js
 - **Tools**: Docker, Git, AWS, Firebase
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
