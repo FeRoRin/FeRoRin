@@ -1,44 +1,62 @@
-# Hello, World! 👋 I'm Firadouss El Ouahabi (aka Fero)
+# 👋 Hello, World! I'm Firdaouss El Ouahabi (Fero)
 
-## 💻 Web Developer | Problem Solver | Tech Enthusiast
-
-Welcome to my GitHub! 🚀 This is where my ideas come to life through code. I’m passionate about turning complex problems into elegant, user-friendly solutions. Whether it’s crafting beautiful front-ends or designing robust back-end systems, I’m always up for the challenge!
-
-### 🔧 What I Do
-I’ve been coding and creating innovative web applications since 2020. From **full-stack development** to **freelance project management**, I’m constantly pushing the boundaries of what’s possible with technology. Here’s a glimpse of my skillset:
-- **Languages**: PHP, JavaScript, Python, C++, C#, Java
-- **Frameworks**: Laravel, Vue.js, Spring Boot, Asp.net, Node.js
-- **Tools**: Docker, Git, AWS, Firebase
-- **Databases**: MySQL, PostgreSQL, MongoDB
-
-I love to build things that solve real-world problems while looking great. Clean code and creative design are my priorities!
+🎮 Full-Stack Developer  
+🛠 Backend Specialist (Laravel Ecosystem)  
+📍 Based in Tangier, Morocco  
+🚀 Building scalable & clean web applications  
 
 ---
 
-### 🔭 What I'm Working On
-- 🌱 Currently expanding my skills in **Docker** and **AWS** to improve deployment processes.
-- 🎨 Developing a personal project to showcase my **Vue.js** expertise in creating interactive user experiences.
-- 👾 Always exploring new technologies and open to collaborating on innovative projects.
+## 🧙‍♂️ Developer Stats
+
+🧠 Problem Solving        ██████████ Lv. 9  
+⚙️ Backend Development    ██████████ Lv. 9  
+🎨 Frontend Development   ████████░░ Lv. 8  
+☁️ DevOps & Cloud         ██████░░░░ Lv. 6  
+🎯 Clean Code Discipline  █████████░ Lv. 8  
 
 ---
 
-### 🌟 Fun Facts About Me
-- 🎮 When I’m not coding, I’m either designing new UI concepts or playing video games.
-- 🌍 Based in Tangier, but always looking for opportunities around the world, especially in **Japan** or **Asia**.
-- 💬 Languages? I speak **Arabic**, **French**, and **English**. Multilingual tech conversations? Count me in!
-- 🚀 I’m all about continuous learning. I love keeping up with the latest tech trends and tools.
+## ⚔️ Main Stack (Primary Weapons)
+
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🤝 Let’s Collaborate!
-If you’re looking for a creative and passionate developer to collaborate with, I’m always open to new opportunities! I thrive in environments where I can learn and contribute to exciting projects.
+## 🧰 Additional Skills (Inventory)
 
-Let’s connect:
-- [LinkedIn](https://www.linkedin.com/in/firdaouss-el-ouahabi-9203a7181/)
-- [GitHub](https://github.com/FeRoRin)
-- [Buy Me a Coffee](https://www.buymeacoffee.com/Fero)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-Thanks for stopping by! 😊 Keep coding, stay curious, and let's make the web a better place together. ✨
+## 📜 Current Quests
 
+🟢 Mastering Docker & AWS deployment strategies  
+🟢 Improving scalable backend architecture  
+🟢 Building advanced API-driven systems  
+
+---
+
+## 🏆 Mission
+
+> Transform complex problems into elegant, scalable, and maintainable solutions.
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/firdaouss-el-ouahabi-9203a7181/
+- ☕ Support: https://www.buymeacoffee.com/Fero
+
+---
+
+⚡ “Clean architecture wins battles.”
