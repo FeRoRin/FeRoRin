@@ -54,7 +54,7 @@
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/firdaouss-el-ouahabi-9203a7181/
+- 💼 LinkedIn: https://www.linkedin.com/in/firdaouss-el-ouahabi/
 - ☕ Support: https://www.buymeacoffee.com/Fero
 
 ---
